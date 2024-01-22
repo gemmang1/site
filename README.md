@@ -1,1 +1,1 @@
-Gemma's website! https://gemmang1.github.io/site/
+Gemma's website! https://gemmang1.github.io/gemmawebsite/
